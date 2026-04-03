@@ -1,12 +1,12 @@
 title: "Python Pro"
 description: "Expertise Python & Kivy à l'Université Kongo"
-theme: minima
+remote_theme: jekyll/minima
 
 # Configuration du style
 minima:
-  skin: dark # Cela active le mode sombre (plus pro pour les dév)
+  skin: dark
   social_links:
     - { platform: github, user: Exauce01159 }
-    - { platform: linkedin, user: exauce-kisiabongo } # Vérifie ton ID LinkedIn
+    - { platform: linkedin, user: exauce-kisiabongo }
     - { platform: whatsapp, user: 243842317817 }
     
