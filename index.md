@@ -1,13 +1,20 @@
 ---
 layout: home
-title: Bienvenue sur Python Pro
 ---
 
-## Apprendre à coder comme un pro
-En tant qu'étudiant en informatique, je partage ici les secrets d'un code Python propre et efficace.
+# Bienvenue sur Python Pro 🐍
 
-### Dernier article :
-* [La base d'une très bonne programmation Python](./2026/04/03/bases-python.html)
+Expertise en développement **Python** & **Kivy**. Étudiant en sciences informatiques à l'**Université Kongo**, je partage ici mes secrets pour un code propre, efficace et prêt pour le marché freelance.
 
 ---
-*Ce site utilise des cookies d'affiliation pour soutenir mon travail de développeur.*
+
+### 🚀 Collaborons sur votre projet
+Vous avez besoin d'une application mobile Android/iOS avec **Kivy** ou d'un script d'automatisation en **Python** ? 
+
+* **Freelance :** Retrouvez-moi sur [mon profil Fiverr](https://www.fiverr.com/exauce_kisiabongo)
+* **Direct :** Discutons sur [WhatsApp : +243 842 317 817](https://wa.me/243842317817)
+* **Réseau :** Suivez mon parcours sur [LinkedIn](https://www.linkedin.com/in/exauce-kisiabongo)
+
+---
+
+## Derniers articles :
