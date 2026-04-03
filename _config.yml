@@ -1,3 +1,12 @@
 title: "Python Pro"
-description: "Conseils pour maîtriser Python."
+description: "Expertise Python & Kivy à l'Université Kongo"
 theme: minima
+
+# Configuration du style
+minima:
+  skin: dark # Cela active le mode sombre (plus pro pour les dév)
+  social_links:
+    - { platform: github, user: Exauce01159 }
+    - { platform: linkedin, user: exauce-kisiabongo } # Vérifie ton ID LinkedIn
+    - { platform: whatsapp, user: 243842317817 }
+    
