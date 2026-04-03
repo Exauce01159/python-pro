@@ -1,0 +1,8 @@
+title: Python Pro
+description: "Conseils d'expert pour maîtriser la programmation Python."
+theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  
