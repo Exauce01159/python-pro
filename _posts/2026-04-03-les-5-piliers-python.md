@@ -3,6 +3,8 @@ layout: post
 title: "Les 5 piliers d'une programmation Python irréprochable"
 date: 2026-04-03
 categories: tutoriel python
+description: "Conseils pratiques pour les étudiants de l'Université Kongo pour réussir l'examen de Python."
+
 ---
 
 Devenir un développeur Python ne se limite pas à connaître la syntaxe. En tant qu'étudiant à l'Université Kongo, j'ai appris que la différence se joue sur la **rigueur**. 
