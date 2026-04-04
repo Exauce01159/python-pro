@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comment j'ai créé mon lecteur de musique avec Kivy"
-date: 2026-04-03
+date: 2026-04-04
 categories: kivy mobile
 ---
 
