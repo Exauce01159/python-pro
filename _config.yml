@@ -2,6 +2,11 @@ title: "Python Pro"
 description: "Expertise Python & Kivy à l'Université Kongo"
 remote_theme: jekyll/minima
 
+# Les plugins doivent être au bord gauche
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 # Configuration du style
 minima:
   skin: dark
