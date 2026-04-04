@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Accueil
 ---
 
 Expertise en développement **Python** & **Kivy**. Étudiant en sciences informatiques à l'**Université Kongo**, je partage ici mes secrets pour un code propre, efficace et prêt pour le marché freelance.
